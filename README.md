@@ -1,6 +1,6 @@
 # ⌨ KeyViz v4.0
 #This project is unrelated to the original Keyviz project.
-### Made by D.T — Germany, Münster
+### Made by D.T — Germany
 
 A real-time keystroke visualizer overlay for Windows.
 
