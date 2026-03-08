@@ -1,4 +1,5 @@
 # ⌨ KeyViz v4.0
+#This project is unrelated to the original Keyviz project.
 ### Made by D.T — Germany, Münster
 
 A real-time keystroke visualizer overlay for Windows.
@@ -46,13 +47,11 @@ python keyviz_overlay.py
 
 ## ✨ Features
 
-### v4.0 New
+### v3.0 New
 - 🌈 **RGB border cycling** — Smooth rainbow border with cycle/pulse/wave modes
 - 💥 **Particle explosions** — Keys explode into particles when typing fast
 - ⏱ **Key hold duration tracker** — See which keys you hold longest / tap fastest
 - 🖼 **Custom app icon** — Proper .ico for shortcuts & taskbar
-
-### v3.0
 - 🎮 Gaming overlay with game detection
 - 📊 Session stats with bar charts
 - 🏆 15 unlockable achievements
