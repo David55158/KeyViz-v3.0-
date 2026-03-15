@@ -1,5 +1,6 @@
 # ⌨ KeyViz v4.0
 #This project is unrelated to the original Keyviz project.
+#Stopped working on it im making my own ai app rn
 ### Made by D.T — Germany
 
 A real-time keystroke visualizer overlay for Windows.
